@@ -1,0 +1,1366 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.7.17)  5 DEC 2019 21:57
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+(wileysix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen102
+\SpaceAboveChapterNumber=\dimen103
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\partskip=\skip43
+\tabandfigskip=\skip44
+\footnum=\count93
+\savefootnum=\count94
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip45
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
+\c@subproblem=\count100
+\c@subproblem=\count101
+\widthofcropmarks=\dimen104
+\raisetopcropmarks=\dimen105
+\raisebottomcropmarks=\dimen106
+\movecropmarksright=\dimen107
+\c@theorem=\count102
+\c@appfootnote=\count103
+\slugwidth=\dimen108
+\slugheight=\dimen109
+\slugdepth=\dimen110
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
+\chapskip=\dimen111
+\chapheight=\dimen112
+\authorskip=\dimen113
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count107
+\lst@gtempboxa=\box27
+\lst@token=\toks15
+\lst@length=\count108
+\lst@currlwidth=\dimen116
+\lst@column=\count109
+\lst@pos=\count110
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count111
+\lst@lineno=\count112
+\lst@maxwidth=\dimen119
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
+\lst@framebox=\box28
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count115
+\float@exts=\toks16
+\float@box=\box29
+\@float@everytoks=\toks17
+\@floatcapt=\box30
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box31
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 126.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 126.
+ (main.aux
+
+LaTeX Warning: Label `langkah2' multiply defined.
+
+
+LaTeX Warning: Label `Figureanaconda70' multiply defined.
+
+
+LaTeX Warning: Label `Figureanaconda70' multiply defined.
+
+
+LaTeX Warning: Label `Figureanaconda70' multiply defined.
+
+
+LaTeX Warning: Label `Figureanaconda70' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+
+LaTeX Warning: Label `CLI' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 131.
+
+ ("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen120
+\scratchbox=\box32
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen121
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count122
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
+ [1{C:/Users/Wahyu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 152.
+<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+File: kreatiflogo.png Graphic file (type png)
+<use kreatiflogo.png>
+Package pdftex.def Info: kreatiflogo.png  used on input line 152.
+(pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
+ [3 <./kreatiflogo.png>] (info/copyrightpage.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+[4] [5
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 163.
+ (info/contributors.tex) [5] [6
+
+] (main.toc) [7] [8
+
+] (main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[9])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10] (main.lof [11
+
+])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12] (main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [13
+
+] [14
+
+] (main.lol)
+\tf@lol=\write7
+\openout7 = `main.lol'.
+
+ [15] [16
+
+] (info/foreword.tex) [17]
+[18
+
+] (info/preface.tex) [19] [20
+
+] (info/acknowledgments.tex [21]) [22
+
+]
+(info/acronyms.tex)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 189.
+
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 189.
+[23] [24
+
+] (info/glossary.tex) [25] [26
+
+] (info/symbols.tex) [27] [28
+
+]
+(info/introduction.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+
+
+LaTeX Warning: Citation `awangga2018sampeu' on page xxix undefined on input lin
+e 13.
+
+) [29] [30
+
+]
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 205.
+(chapters/1.tex [1] [2
+
+]
+Bab 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 3.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5]
+<figures/1.png, id=130, 332.74312pt x 246.9225pt>
+File: figures/1.png Graphic file (type png)
+<use figures/1.png>
+Package pdftex.def Info: figures/1.png  used on input line 52.
+(pdftex.def)             Requested size: 166.37114pt x 123.46094pt.
+<figures/2.png, id=131, 317.68687pt x 219.06844pt>
+File: figures/2.png Graphic file (type png)
+<use figures/2.png>
+Package pdftex.def Info: figures/2.png  used on input line 59.
+(pdftex.def)             Requested size: 158.84303pt x 109.53394pt.
+<figures/3.png, id=132, 354.57469pt x 277.78781pt>
+File: figures/3.png Graphic file (type png)
+<use figures/3.png>
+Package pdftex.def Info: figures/3.png  used on input line 67.
+(pdftex.def)             Requested size: 177.28691pt x 138.89355pt.
+
+Underfull \vbox (badness 1789) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6 <./figures/1.png> <./figures/2.png>]
+<figures/4.png, id=139, 356.83313pt x 277.78781pt>
+File: figures/4.png Graphic file (type png)
+<use figures/4.png>
+Package pdftex.def Info: figures/4.png  used on input line 78.
+(pdftex.def)             Requested size: 178.41612pt x 138.89355pt.
+<figures/5.png, id=140, 355.3275pt x 276.28218pt>
+File: figures/5.png Graphic file (type png)
+<use figures/5.png>
+Package pdftex.def Info: figures/5.png  used on input line 89.
+(pdftex.def)             Requested size: 177.6633pt x 138.14075pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7 <./figures/3.png> <./figures/4.png>]
+<figures/6.png, id=146, 358.33875pt x 282.30469pt>
+File: figures/6.png Graphic file (type png)
+<use figures/6.png>
+Package pdftex.def Info: figures/6.png  used on input line 100.
+(pdftex.def)             Requested size: 179.16893pt x 141.152pt.
+<figures/7.png, id=147, 359.84438pt x 279.29344pt>
+File: figures/7.png Graphic file (type png)
+<use figures/7.png>
+Package pdftex.def Info: figures/7.png  used on input line 110.
+(pdftex.def)             Requested size: 179.92174pt x 139.64638pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8 <./figures/5.png> <./figures/6.png>]
+<figures/8.png, id=153, 356.83313pt x 276.28218pt>
+File: figures/8.png Graphic file (type png)
+<use figures/8.png>
+Package pdftex.def Info: figures/8.png  used on input line 120.
+(pdftex.def)             Requested size: 178.41612pt x 138.14075pt.
+<figures/9.png, id=154, 358.33875pt x 277.035pt>
+File: figures/9.png Graphic file (type png)
+<use figures/9.png>
+Package pdftex.def Info: figures/9.png  used on input line 128.
+(pdftex.def)             Requested size: 179.16893pt x 138.51715pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9 <./figures/7.png> <./figures/8.png>]
+<figures/10.png, id=160, 358.33875pt x 278.54062pt>
+File: figures/10.png Graphic file (type png)
+<use figures/10.png>
+Package pdftex.def Info: figures/10.png  used on input line 136.
+(pdftex.def)             Requested size: 179.16893pt x 139.26996pt.
+<figures/11.png, id=161, 356.83313pt x 277.78781pt>
+File: figures/11.png Graphic file (type png)
+<use figures/11.png>
+Package pdftex.def Info: figures/11.png  used on input line 146.
+(pdftex.def)             Requested size: 178.41612pt x 138.89355pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10 <./figures/9.png> <./figures/10.png>]
+
+! LaTeX Error: File `figures/installpip (2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 ...aphics[scale=0.3]{figures/installpip (2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (138.2167pt too wide) in paragraph at lines 159--160
+ [][] 
+ []
+
+
+! LaTeX Error: File `figures/pipselesai (2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 ...aphics[scale=0.3]{figures/pipselesai (2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (138.2167pt too wide) in paragraph at lines 166--167
+ [][] 
+ []
+
+
+! LaTeX Error: File `figures/pipversion (2)' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.173 ...aphics[scale=0.5]{figures/pipversion (2)}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (138.2167pt too wide) in paragraph at lines 173--174
+ [][] 
+ []
+
+<figures/properties.png, id=167, 264.99pt x 214.55156pt>
+File: figures/properties.png Graphic file (type png)
+<use figures/properties.png>
+Package pdftex.def Info: figures/properties.png  used on input line 187.
+(pdftex.def)             Requested size: 185.49173pt x 150.18506pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11 <./figures/11.png>]
+<figures/advanced.png, id=172, 136.25906pt x 104.64093pt>
+File: figures/advanced.png Graphic file (type png)
+<use figures/advanced.png>
+Package pdftex.def Info: figures/advanced.png  used on input line 194.
+(pdftex.def)             Requested size: 95.38068pt x 73.24814pt.
+<figures/environment.png, id=173, 295.85532pt x 301.8778pt>
+File: figures/environment.png Graphic file (type png)
+<use figures/environment.png>
+Package pdftex.def Info: figures/environment.png  used on input line 201.
+(pdftex.def)             Requested size: 207.0973pt x 211.31302pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12 <./figures/properties.png> <./figures/advanced.png>]
+<figures/path.png, id=180, 454.69875pt x 497.60907pt>
+File: figures/path.png Graphic file (type png)
+<use figures/path.png>
+Package pdftex.def Info: figures/path.png  used on input line 208.
+(pdftex.def)             Requested size: 318.28694pt x 348.32397pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13 <./figures/environment.png>]
+Overfull \hbox (1.80637pt too wide) in paragraph at lines 217--218
+\OT1/ptm/m/n/10 Download Geck-o-driver pada link ini https://github.com/mozilla
+/geckodriver/releases.
+ []
+
+<figures/gechodriver.png, id=185, 866.48718pt x 545.78906pt>
+File: figures/gechodriver.png Graphic file (type png)
+<use figures/gechodriver.png>
+Package pdftex.def Info: figures/gechodriver.png  used on input line 222.
+(pdftex.def)             Requested size: 259.94815pt x 163.73798pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14 <./figures/path.png>])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15 <./figures/gechodriver.png>] [16
+
+]
+Bab 3.
+(chapters/2.tex
+<figures/awalspy.png, id=197, 1028.34187pt x 578.16pt>
+File: figures/awalspy.png Graphic file (type png)
+<use figures/awalspy.png>
+Package pdftex.def Info: figures/awalspy.png  used on input line 8.
+(pdftex.def)             Requested size: 308.50494pt x 173.44933pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18 <./figures/awalspy.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.61 Webdriver.common.desired_
+                              capabilities import DesiredCapabilities()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.63 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (578.17001pt too wide) in paragraph at lines 61--63
+\OT1/ptm/m/n/10 Webdriver.common.desired$[]\OML/cmm/m/it/10 apabilitiesimportDe
+siredCapabilities\tocfonts ()\OML/cmm/m/it/10 sebagaititikawaluntukmembuatobjek
+kemampuanyangdiinginkanuntukmemintadriverwebjarakjauhuntukterhubungkeserversele
+nium:[]$ 
+ []
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.63 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+<figures/run1.png, id=206, 1028.34187pt x 102.3825pt>
+File: figures/run1.png Graphic file (type png)
+<use figures/run1.png>
+Package pdftex.def Info: figures/run1.png  used on input line 86.
+(pdftex.def)             Requested size: 308.50494pt x 30.71498pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19 <./figures/run1.png>]
+<figures/run2.png, id=211, 353.06906pt x 159.59625pt>
+File: figures/run2.png Graphic file (type png)
+<use figures/run2.png>
+Package pdftex.def Info: figures/run2.png  used on input line 96.
+(pdftex.def)             Requested size: 176.53409pt x 79.79791pt.
+<figures/run3.png, id=212, 352.31625pt x 159.59625pt>
+File: figures/run3.png Graphic file (type png)
+<use figures/run3.png>
+Package pdftex.def Info: figures/run3.png  used on input line 104.
+(pdftex.def)             Requested size: 176.15768pt x 79.79791pt.
+<figures/run4.png, id=213, 355.3275pt x 161.85469pt>
+File: figures/run4.png Graphic file (type png)
+<use figures/run4.png>
+Package pdftex.def Info: figures/run4.png  used on input line 112.
+(pdftex.def)             Requested size: 177.6633pt x 80.92714pt.
+<figures/run5.png, id=214, 1023.825pt x 554.07pt>
+File: figures/run5.png Graphic file (type png)
+<use figures/run5.png>
+Package pdftex.def Info: figures/run5.png  used on input line 120.
+(pdftex.def)             Requested size: 307.14987pt x 166.22227pt.
+
+Underfull \vbox (badness 2913) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20 <./figures/run2.png> <./figures/run3.png> <./figures/run4.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.132 \item find_
+                 element_by_id
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.133 \par
+           Gunakan ini ketika Anda tahu atribut id suatu elemen. Dengan stra...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.133 \par
+           Gunakan ini ketika Anda tahu atribut id suatu elemen. Dengan stra...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.133 \par
+           Gunakan ini ketika Anda tahu atribut id suatu elemen. Dengan stra...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 136.
+
+("C:\Users\Wahyu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlptm.fd"
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 136.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.140 \item find_
+                 element_by_name
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.141 \par
+           Gunakan ini ketika Anda tahu atribut nama elemen. Dengan strategi...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.141 \par
+           Gunakan ini ketika Anda tahu atribut nama elemen. Dengan strategi...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.141 \par
+           Gunakan ini ketika Anda tahu atribut nama elemen. Dengan strategi...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 \item find_
+                 element_by_xpath
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.149 \par
+           XPath adalah bahasa yang digunakan untuk menemukan node dalam dok...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.149 \par
+           XPath adalah bahasa yang digunakan untuk menemukan node dalam dok...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.149 \par
+           XPath adalah bahasa yang digunakan untuk menemukan node dalam dok...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [21 <./figures/run5.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.156 \item find_
+                 element_by_link_text
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.157 \par
+           Gunakan ini ketika Anda tahu teks tautan yang digunakan dalam tag...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.157 \par
+           Gunakan ini ketika Anda tahu teks tautan yang digunakan dalam tag...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.157 \par
+           Gunakan ini ketika Anda tahu teks tautan yang digunakan dalam tag...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.164 \item find_
+                 element_by_tag_name
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.165 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan nama tag. Den...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.165 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan nama tag. Den...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.165 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan nama tag. Den...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.172 \item find_
+                 element_by_class_name
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.173 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan nama atribut ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.173 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan nama atribut ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.173 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan nama atribut ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.180 \item find_
+                 element_by_css_selector
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.181 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan sintaks pemil...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.181 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan sintaks pemil...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.181 \par
+           Gunakan ini ketika Anda ingin mencari elemen dengan sintaks pemil...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22]
+<figures/siap.png, id=228, 1019.30812pt x 493.845pt>
+File: figures/siap.png Graphic file (type png)
+<use figures/siap.png>
+Package pdftex.def Info: figures/siap.png  used on input line 199.
+(pdftex.def)             Requested size: 305.7948pt x 148.15463pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.203 ...nspect}, disini kami menggunakan element_
+                                                  by_name.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.204 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.204 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.204 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+<figures/inspect1.png, id=229, 1027.58907pt x 517.18219pt>
+File: figures/inspect1.png Graphic file (type png)
+<use figures/inspect1.png>
+Package pdftex.def Info: figures/inspect1.png  used on input line 207.
+(pdftex.def)             Requested size: 308.2791pt x 155.15585pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23 <./figures/siap.png> <./figures/inspect1.png>]
+<figures/hasillogin.png, id=235, 992.20688pt x 554.07pt>
+File: figures/hasillogin.png Graphic file (type png)
+<use figures/hasillogin.png>
+Package pdftex.def Info: figures/hasillogin.png  used on input line 225.
+(pdftex.def)             Requested size: 297.66437pt x 166.22227pt.
+<figures/hasillogin1.png, id=236, 1001.99344pt x 530.73282pt>
+File: figures/hasillogin1.png Graphic file (type png)
+<use figures/hasillogin1.png>
+Package pdftex.def Info: figures/hasillogin1.png  used on input line 233.
+(pdftex.def)             Requested size: 300.60034pt x 159.22107pt.
+<figures/nilai1.png, id=237, 303.38344pt x 390.70969pt>
+File: figures/nilai1.png Graphic file (type png)
+<use figures/nilai1.png>
+Package pdftex.def Info: figures/nilai1.png  used on input line 242.
+(pdftex.def)             Requested size: 151.69135pt x 195.35435pt.
+
+Overfull \hbox (3.53632pt too wide) in paragraph at lines 239--245
+[]\OT1/ptm/m/n/10 Pada layanan ma-ha-siswa, kami men-coba un-tuk meli-hat ni-la
+i ma-ha-siswa se-cara otoma-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24 <./figures/hasillogin.png> <./figures/hasillogin1.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25 <./figures/nilai1.png>]
+<figures/nilai2.png, id=248, 1027.58907pt x 517.18219pt>
+File: figures/nilai2.png Graphic file (type png)
+<use figures/nilai2.png>
+Package pdftex.def Info: figures/nilai2.png  used on input line 252.
+(pdftex.def)             Requested size: 308.2791pt x 155.15585pt.
+<figures/hasilnilai1.png, id=249, 984.67876pt x 550.30594pt>
+File: figures/hasilnilai1.png Graphic file (type png)
+<use figures/hasilnilai1.png>
+Package pdftex.def Info: figures/hasilnilai1.png  used on input line 265.
+(pdftex.def)             Requested size: 295.4059pt x 165.09305pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26 <./figures/nilai2.png> <./figures/hasilnilai1.png>]
+<figures/tahun1.png, id=255, 637.63219pt x 333.49594pt>
+File: figures/tahun1.png Graphic file (type png)
+<use figures/tahun1.png>
+Package pdftex.def Info: figures/tahun1.png  used on input line 275.
+(pdftex.def)             Requested size: 191.29112pt x 100.04955pt.
+<figures/semestergenap.png, id=256, 1024.57782pt x 499.8675pt>
+File: figures/semestergenap.png Graphic file (type png)
+<use figures/semestergenap.png>
+Package pdftex.def Info: figures/semestergenap.png  used on input line 283.
+(pdftex.def)             Requested size: 307.37572pt x 149.9614pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27 <./figures/tahun1.png> <./figures/semestergenap.png>]
+<figures/hasilnilai2.png, id=262, 1001.24063pt x 398.23781pt>
+File: figures/hasilnilai2.png Graphic file (type png)
+<use figures/hasilnilai2.png>
+Package pdftex.def Info: figures/hasilnilai2.png  used on input line 298.
+(pdftex.def)             Requested size: 300.37451pt x 119.47226pt.
+<figures/cari1.png, id=263, 621.07031pt x 396.7322pt>
+File: figures/cari1.png Graphic file (type png)
+<use figures/cari1.png>
+Package pdftex.def Info: figures/cari1.png  used on input line 308.
+(pdftex.def)             Requested size: 186.32253pt x 119.02057pt.
+<figures/button1.png, id=264, 1024.57782pt x 372.64218pt>
+File: figures/button1.png Graphic file (type png)
+<use figures/button1.png>
+Package pdftex.def Info: figures/button1.png  used on input line 316.
+(pdftex.def)             Requested size: 307.37572pt x 111.7935pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <./figures/hasilnilai2.png> <./figures/cari1.png> <./figures/button1.png>])
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29] [30
+
+]
+Bab 4.
+(chapters/3.tex
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no Ô in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31])
+No file main.bbl.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[32]
+No file main.ind.
+(main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3657 strings out of 492946
+ 54652 string characters out of 3126266
+ 404738 words of memory out of 3000000
+ 7396 multiletter control sequences out of 15000+200000
+ 70216 words of font info for 124 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,47p,1137b,1801s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmex10.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Wahyu/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Wahyu/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Wahyu/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
+/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy8.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helv
+etic/uhvb8a.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvr8a.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/urw/times/utmb8a.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/times/utmbi8a.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Wahyu/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (63 pages, 2461739 bytes).
+PDF statistics:
+ 328 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+

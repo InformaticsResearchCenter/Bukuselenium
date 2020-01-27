@@ -1,0 +1,30 @@
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
+\contentsline {chapter}{\numberline {1}Selenium}{1}% 
+\contentsline {chapter}{\numberline {2}\textit {Selenium}}{3}% 
+\contentsline {section}{\numberline {2.1}Sejarah \textit {Selenium}}{3}% 
+\contentsline {section}{\numberline {2.2}Jenis-Jenis \textit {Selenium} \textit {}}{4}% 
+\contentsline {section}{\numberline {2.3}Anaconda}{5}% 
+\contentsline {subsection}{\numberline {2.3.1}Instalasi Anaconda}{5}% 
+\contentsline {section}{\numberline {2.4}Instalasi Pip}{11}% 
+\contentsline {section}{\numberline {2.5}Setting Environment}{11}% 
+\contentsline {subsection}{\numberline {2.5.1}Windows (Windows 10)}{11}% 
+\contentsline {section}{\numberline {2.6}Geckodriver dan Chromedriver}{14}% 
+\contentsline {subsection}{\numberline {2.6.1}Gechodriver untuk Mozilla Firefox}{14}% 
+\contentsline {chapter}{\numberline {3}Menggunakan Selenium}{17}% 
+\contentsline {section}{\numberline {3.1}Penggunaan Selenium}{17}% 
+\contentsline {subsection}{\numberline {3.1.1}Cara find element atau class }{21}% 
+\contentsline {subsection}{\numberline {3.1.2}Mengambil element dari web siap.poltekpos.ac.id}{22}% 
+\contentsline {chapter}{\numberline {4}Penanganan Error}{31}% 
+\contentsline {section}{\numberline {4.1} WebDriver Exception : Can not connect to the service geckodriver}{31}% 
+\contentsline {section}{\numberline {4.2}SessionNotCreatedException : Unable to ﬁnd a matching set of capabilities}{31}% 
+\contentsline {section}{\numberline {4.3}Module Notfound Error : no module named selenium}{32}% 
+\contentsline {section}{\numberline {4.4} WebDriverExecption: cant load profile Possible version mismatch}{32}% 
